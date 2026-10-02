@@ -181,6 +181,10 @@ dmypy.json
 # Data
 data/
 
+#Figuras
+figuras_boxplots/
+figuras_violin/
+
 # Cython debug symbols
 cython_debug/
 
